@@ -1,14 +1,7 @@
-# Libri Releases
+## 🚀 Libri 퍼블릭 베타 다운로드
+Libri의 최신 버전을 다운로드하여 사용해 보세요!
+- [👉 Windows 10/11 x64 최신 버전 설치 파일 다운로드](https://github.com/gyuwonlee1/Libri-releases/releases/download/v0.1.0/Libri_0.1.0_x64-setup.exe)
 
-This repository hosts public release artifacts for Libri.
-
-Source code is maintained in a private repository. This repository is used only for public installer downloads and Tauri updater metadata.
-
-Each GitHub Release should include:
-
-- The NSIS installer `.exe`
-- The matching Tauri updater signature `.exe.sig`
-- `latest.json`
-- `THIRD_PARTY_NOTICES.md`
-
-Third-party notices are included with each release.
+⚠️ **주의 사항**
+개인 개발자가 배포하여 Windows SmartScreen 경고창이 뜰 수 있습니다. 
+안전한 파일이니 [추가 정보] -> [실행]을 눌러 설치를 진행해 주세요.
