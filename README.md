@@ -12,5 +12,3 @@ Each GitHub Release should include:
 - `THIRD_PARTY_NOTICES.md`
 
 Third-party notices are included with each release.
-
-Do not commit private source code, signing keys, signing passwords, `.env` files, build caches, or internal development documents to this repository.
