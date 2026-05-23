@@ -38,5 +38,5 @@ Libri의 최신 버전을 다운로드하여 사용해 보세요!
 
 사용해 보시면서 겪으신 불편한 점, 잔버그 제보, 또는 "이런 기능이 있으면 좋겠다" 하는 제안들은 아래 설문지를 통해 언제든 편하게 남겨주세요! 소중한 의견을 반영하여 꾸준히 업데이트해 나가겠습니다.
 
-👉 [Libri 퍼블릭 베타 피드백 남기기 ([Google Forms/Tally 링크](https://docs.google.com/forms/d/e/1FAIpQLSd6Yr0QS-wDiWjDcjT4WBb4Yzv2sp4-dYon6Fkbe4M_kMuN5A/viewform?usp=dialog))]
+👉 [Libri 퍼블릭 베타 피드백 남기기](https://docs.google.com/forms/d/e/1FAIpQLSd6Yr0QS-wDiWjDcjT4WBb4Yzv2sp4-dYon6Fkbe4M_kMuN5A/viewform?usp=dialog)
 
