@@ -5,3 +5,6 @@ Libri의 최신 버전을 다운로드하여 사용해 보세요!
 ⚠️ **주의 사항**
 개인 개발자가 배포하여 Windows SmartScreen 경고창이 뜰 수 있습니다. 
 안전한 파일이니 [추가 정보] -> [실행]을 눌러 설치를 진행해 주세요.
+
+**버그 제보 및 피드백 채널**
+- https://docs.google.com/forms/d/e/1FAIpQLSd6Yr0QS-wDiWjDcjT4WBb4Yzv2sp4-dYon6Fkbe4M_kMuN5A/viewform?usp=dialog
